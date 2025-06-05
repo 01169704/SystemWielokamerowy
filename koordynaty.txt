@@ -1,0 +1,12 @@
+ZAPISANA TRANSFORMACJA:
+Location: x=-79.06, y=144.47, z=7.99
+Rotation: pitch=-26.10, yaw=-34.04, roll=0.00
+---
+ZAPISANA TRANSFORMACJA:
+Location: x=-8.81, y=146.30, z=7.76
+Rotation: pitch=-18.80, yaw=-139.17, roll=0.00
+---
+ZAPISANA TRANSFORMACJA:
+Location: x=-45.55, y=148.47, z=6.87
+Rotation: pitch=-27.08, yaw=-89.48, roll=0.00
+---
